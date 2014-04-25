@@ -8,7 +8,7 @@ I have configured the entire book code in a single mavan project (without the su
 This version of the code has been tested with:
  * Hadoop 1.2.1/0.22.0/0.23.x/2.2.0
  * Avro 1.5.4
- * Pig 0.9.1
+ * Pig 0.8.0
  * Hive 0.8.0
  * HBase 0.90.4/0.94.15
  * ZooKeeper 3.4.2
